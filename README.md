@@ -19,9 +19,9 @@ Keep in mind, that once a player flips two unmatching cards, their turn is over.
 there is a grace period of five seconds for the player to save themselves by finding a matching card or to use a power-up!
 
 These power-ups are the following they can either:
-  > Shuffle the cards on the "table" in case one of the players knows where two matching cards could be
-  > instantly get two matching cards (instant points for you!)
-  > Add more seconds to the player's time limit
+            Shuffle the cards on the "table" in case one of the players knows where two matching cards could be
+            instantly get two matching cards (instant points for you!)
+            Add more seconds to the player's time limit
 
 Keep in mind, that these power-ups can be used at ANY time during a player's turn BUT they each have a shared cooldown so use them wisely! (multiple power-ups cannot be used)
 The game ends once either all the cards are used in the deck, or every player's time limit runs out! The player with the most points wins! Good luck and have fun :D ! 
