@@ -6,10 +6,10 @@ This can be played with 1-4 local players.
 
 Every card would have a color, a pattern, and an icon.
 A matching pair of cards would match with at least one of these attributes. Cards with 2 matching attributes will give a higher score.
-For example: 
 
-a blue card with a dog icon and stripes pattern == MATCHES WITH == a blue card with a cat icon and hearts pattern and  --> 1 point!
-a blue card with a dog icon and stripes pattern == MATCHES WITH == a blue card with a dog icon and hearts pattern --> 2 points!
+For example:
+- a blue card with a dog icon and stripes pattern == MATCHES WITH == a blue card with a cat icon and hearts pattern and  --> 1 point!
+- a blue card with a dog icon and stripes pattern == MATCHES WITH == a blue card with a dog icon and hearts pattern --> 2 points!
             
 The goal of the game is to flip a card one at a time and find a matching pair of cards. The more cards you match, the more points you get!
 
