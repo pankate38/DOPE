@@ -25,7 +25,9 @@ These power-ups are the following they can either:
 - Add more seconds to the player's time limit
 
 Keep in mind, that these power-ups can be used at ANY time during a player's turn BUT they each have a shared cooldown so use them wisely! (multiple power-ups cannot be used)
-The game ends once either all the cards are used in the deck, or every player's time limit runs out! The player with the most points wins! Good luck and have fun :D ! 
+The game ends once either all the cards are used in the deck, or every player's time limit runs out! The player with the most points wins! 
+
+Good luck and have fun :D ! 
 
 This project was a class project done in high school and is solely for educational purposes only.
 I used Java in IntelliJ and SceneBuilder together for this program.
