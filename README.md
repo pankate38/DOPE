@@ -6,9 +6,10 @@ This can be played with 1-4 local players.
 
 Every card would have a color, a pattern, and an icon.
 A matching pair of cards would match with at least one of these attributes. Cards with 2 matching attributes will give a higher score.
-For example:
-            a blue card with a dog icon and stripes pattern == MATCHES WITH == a blue card with a cat icon and hearts pattern and  --> 1 point!
-            a blue card with a dog icon and stripes pattern == MATCHES WITH == a blue card with a dog icon and hearts pattern --> 2 points!
+For example: 
+
+a blue card with a dog icon and stripes pattern == MATCHES WITH == a blue card with a cat icon and hearts pattern and  --> 1 point!
+a blue card with a dog icon and stripes pattern == MATCHES WITH == a blue card with a dog icon and hearts pattern --> 2 points!
             
 The goal of the game is to flip a card one at a time and find a matching pair of cards. The more cards you match, the more points you get!
 
@@ -19,9 +20,9 @@ Keep in mind, that once a player flips two unmatching cards, their turn is over.
 there is a grace period of five seconds for the player to save themselves by finding a matching card or to use a power-up!
 
 These power-ups are the following they can either:
-            Shuffle the cards on the "table" in case one of the players knows where two matching cards could be
-            instantly get two matching cards (instant points for you!)
-            Add more seconds to the player's time limit
+- Shuffle the cards on the "table" in case one of the players knows where two matching cards could be
+- instantly get two matching cards (instant points for you!)
+- Add more seconds to the player's time limit
 
 Keep in mind, that these power-ups can be used at ANY time during a player's turn BUT they each have a shared cooldown so use them wisely! (multiple power-ups cannot be used)
 The game ends once either all the cards are used in the deck, or every player's time limit runs out! The player with the most points wins! Good luck and have fun :D ! 
