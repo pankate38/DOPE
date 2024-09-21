@@ -31,3 +31,9 @@ Good luck and have fun :D !
 
 This project was a class project done in high school and is solely for educational purposes only.
 I used Java in IntelliJ and SceneBuilder together for this program.
+
+Updates:
+
+09-21-2024
+* added a singleplayer demo
+* might add sounds effects in future update
